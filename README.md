@@ -1,6 +1,6 @@
 ## Using the Starter Project
 
-1. [Download](archive/master.zip) this code (or clone with git)
+1. [Download](https://github.com/stackmob/stackmob-javascript-starter/archive/master.zip) this code (or clone with git)
 2. Edit app.js and add your public key to the `StackMob.init(..)` block:
 
     ```js
