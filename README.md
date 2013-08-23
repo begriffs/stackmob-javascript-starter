@@ -15,7 +15,9 @@
 4. After creating a few objects in the app, view the data in StackMob's
 [Object Browser](https://dashboard.stackmob.com/data/browser).
 
-For more help getting started, see the
-[Start](https://developer.stackmob.com/start)
-page, or ask for help in the [JS SDK
-forum](http://support.stackmob.com/forums/22281771-JavaScript-Questions).
+For more help getting started see these resources
+
+* [StackMob Getting Started](https://developer.stackmob.com/start)
+* [Developer Center](https://developer.stackmob.com/js-sdk)
+* [Developer Guide](https://developer.stackmob.com/js-sdk/developer-guide)
+* [JavaScript SDK forum](http://support.stackmob.com/forums/22281771-JavaScript-Questions)
