@@ -10,7 +10,7 @@
     });
     ```
 
-3. Open `index.html`jjj in a web browser. (It works fine even when
+3. Open `index.html` in a web browser. (It works fine even when
    served as `file://`)
 4. After creating a few objects in the app, view the data in StackMob's
 [Object Browser](https://dashboard.stackmob.com/data/browser).
